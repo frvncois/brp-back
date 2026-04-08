@@ -1,0 +1,1010 @@
+{
+  "countries": {
+    "681226d9ac7d04e4b62b5b03": {
+      "id": 1,
+      "documentId": "ty32ukrjno2ahnria334ct1y",
+      "name": "Finland"
+    },
+    "660c5c8114250a416fcc4b72": {
+      "id": 4,
+      "documentId": "smlz3wejo9dfymvauoj1ubwg",
+      "name": "Austria"
+    },
+    "660c5c7866a8169111f1f12d": {
+      "id": 7,
+      "documentId": "cg4fd1j5solrkghhz9rbvrlx",
+      "name": "Global"
+    },
+    "660c5c70628092adfbcc3d7c": {
+      "id": 10,
+      "documentId": "dgx4m45vrur0dfgyro6whsex",
+      "name": "Scotland"
+    },
+    "660c5c689a2cc136bab0eb1e": {
+      "id": 13,
+      "documentId": "eklhra698loo9p2ymkbi20gn",
+      "name": "Mexico"
+    },
+    "660c5c5e631a8fd1c332c0b9": {
+      "id": 16,
+      "documentId": "zrtimwbljg400bxw70dyg8zm",
+      "name": "United Kingdom"
+    },
+    "660c5c5353b452108ea87e67": {
+      "id": 19,
+      "documentId": "haxrkkmq3keu40kbyetdz65c",
+      "name": "Canada"
+    },
+    "660c5c4d8a12e469d58e5834": {
+      "id": 22,
+      "documentId": "pd7x1stfnccat6mvyicb6lee",
+      "name": "Australia"
+    },
+    "660c5c449a2cc136bab0c043": {
+      "id": 25,
+      "documentId": "q0im6230dzuplhr1rgaii70d",
+      "name": "United States"
+    }
+  },
+  "categories": {
+    "6700340d2d936f77afc048b6": {
+      "id": 1,
+      "documentId": "i3rql1fxbu675wyk780pd1g7",
+      "name": "What are the long-term effects of being bullied?"
+    },
+    "6700123bde750f8977c4d1a2": {
+      "id": 4,
+      "documentId": "zsmykxyq2hg2fpl6yqtkplt8",
+      "name": "Why do bullies exist?"
+    },
+    "6700121fb72860ccaee19dd6": {
+      "id": 7,
+      "documentId": "e0ue3ubk0uhw2gh4n21x5z61",
+      "name": "How do I stop bullying others?"
+    },
+    "6700120511cca9cbb82db52f": {
+      "id": 10,
+      "documentId": "eypya7timov6n6ywmzs3px0b",
+      "name": "What do I do when I witness racism?"
+    },
+    "670011e8c3b0d7abb1b5478d": {
+      "id": 13,
+      "documentId": "i3ywdfz36q6w9wiwocozn658",
+      "name": "My friends won't talk to me anymore. What can I do?"
+    },
+    "670011cbf9942a91ca7557af": {
+      "id": 16,
+      "documentId": "ti0xs2grfdugi71z50fqu00b",
+      "name": "How can I overcome cyberbullying?"
+    },
+    "670011ac72e9b58704173373": {
+      "id": 19,
+      "documentId": "o84vargi39gx0cup4ht1zlr7",
+      "name": "What is considered bullying?"
+    },
+    "67001179c3b0d7abb1b4c1a1": {
+      "id": 22,
+      "documentId": "bifef2gim48htwh1hc7rx6zd",
+      "name": "How can I recognize bullying?"
+    },
+    "6700114bde750f8977c39efa": {
+      "id": 25,
+      "documentId": "e3a363j1r61hn8vkxxba0blc",
+      "name": "When does banter become bullying?"
+    },
+    "67001123a261bb0d99a75611": {
+      "id": 28,
+      "documentId": "n5yhswx49i73zfiwixtup58y",
+      "name": "Get inspired!"
+    },
+    "660c5ac7f4b0828e89983898": {
+      "id": 19,
+      "documentId": "o84vargi39gx0cup4ht1zlr7",
+      "name": "What is considered bullying?"
+    },
+    "660c5ac7f63e67063a056375": {
+      "id": 34,
+      "documentId": "jcu62j0a7obe9cegfpivyoyn",
+      "name": "How can I keep my child from bullying others?"
+    },
+    "660c5ac7631a8fd1c3312ea0": {
+      "id": 37,
+      "documentId": "timwvpv87xz4060usryj0rve",
+      "name": "How can I start a conversation with my child about bullying?"
+    },
+    "660c5ac75412aaff46751a82": {
+      "id": 25,
+      "documentId": "e3a363j1r61hn8vkxxba0blc",
+      "name": "When does banter become bullying?"
+    },
+    "660c5ac7342b949bc78b32bf": {
+      "id": 43,
+      "documentId": "rykxd5oed6fmzxs2ng2xm41a",
+      "name": "My child is being bullied at school. What can I do?"
+    },
+    "660c5ac7bc03d5ce7df86e65": {
+      "id": 46,
+      "documentId": "vhukzuxp3sj1na30se5mafmf",
+      "name": "How can I keep my child safe online?"
+    },
+    "660c5ac756beceaf4a559ef8": {
+      "id": 49,
+      "documentId": "g1no9ftz8tfllcy809pc2q9o",
+      "name": "How can I help my child overcome bullying?"
+    },
+    "660c5ac72a74a3b33b1bec7c": {
+      "id": 52,
+      "documentId": "fcg4okt9nqv4j12i4tn01pm3",
+      "name": "When is it time to get professional help for my child?"
+    },
+    "660c5ac7cde066e819e22bff": {
+      "id": 55,
+      "documentId": "b0qunmw442486oohcjyepbdb",
+      "name": "How can I recognize the warning signs if my child is being bullied?"
+    },
+    "660c5ac8ce35ab84218b30ba": {
+      "id": 1,
+      "documentId": "i3rql1fxbu675wyk780pd1g7",
+      "name": "What are the long-term effects of being bullied?"
+    },
+    "6616d67a7dd8ed5f4b106b7e": {
+      "id": 61,
+      "documentId": "qru665ferf4qbbxexgyo4gun",
+      "name": "How can I practice kind behavior with my child?"
+    },
+    "6617d07b547d1117a29b1462": {
+      "id": 28,
+      "documentId": "n5yhswx49i73zfiwixtup58y",
+      "name": "Get inspired!"
+    },
+    "6616aa7fa71a72fc94f5afcf": {
+      "id": 25,
+      "documentId": "e3a363j1r61hn8vkxxba0blc",
+      "name": "When does banter become bullying?"
+    },
+    "6616aa41c92600cd463b5e34": {
+      "id": 22,
+      "documentId": "bifef2gim48htwh1hc7rx6zd",
+      "name": "How can I recognize bullying?"
+    },
+    "6616aa0d16ffc1830e9ec33c": {
+      "id": 25,
+      "documentId": "e3a363j1r61hn8vkxxba0blc",
+      "name": "When does banter become bullying?"
+    },
+    "6616a93970143aac448aa621": {
+      "id": 76,
+      "documentId": "p8281ozd2bi5zdyiufcokgdn",
+      "name": "How can I talk to parents about their child being bullied?"
+    },
+    "660c5ac8697c42f695826119": {
+      "id": 1,
+      "documentId": "i3rql1fxbu675wyk780pd1g7",
+      "name": "What are the long-term effects of being bullied?"
+    },
+    "660c5ac8342b949bc78b34c6": {
+      "id": 82,
+      "documentId": "mvxpl4z8ceh1ktybgk2vz7fi",
+      "name": "How can I recognize if one of my students is a victim of bullying?"
+    },
+    "660c5ac89ac96028f228f96b": {
+      "id": 85,
+      "documentId": "fgzo3ts9q82cbjtd5bojrfhp",
+      "name": "How can my students safely report bullying incidents?"
+    },
+    "660c5ac8b55a6090901c0200": {
+      "id": 88,
+      "documentId": "pilq2w4kmjwjt4eb2hdvv34x",
+      "name": "How can I talk to a bully's parents about their child's behaviour?"
+    },
+    "660c5ac738505fd4d5f5179b": {
+      "id": 76,
+      "documentId": "p8281ozd2bi5zdyiufcokgdn",
+      "name": "How can I talk to parents about their child being bullied?"
+    },
+    "660c5ac7cde066e819e22c26": {
+      "id": 94,
+      "documentId": "iyn2809e0xkjyu2end8o6ibh",
+      "name": "How do I handle a bully in my classroom?"
+    },
+    "660c5ac7dd97ebc73461f1b5": {
+      "id": 97,
+      "documentId": "vmxmvxhkyl4rbj8nufcsxdac",
+      "name": "When is it time to talk to parents about their child bullying or being bullied?"
+    },
+    "660c5ac7f63e67063a0563e5": {
+      "id": 100,
+      "documentId": "knbn4wqk9rkmypgy1rrky9wa",
+      "name": "What are some Anti-Bullying activities I can do with my students?"
+    },
+    "660c5ac7de0d4915006c6ef8": {
+      "id": 103,
+      "documentId": "xa567v07ds56x8h5z7ogr88w",
+      "name": "One of my students is being bullied. What can I do?"
+    },
+    "66229bf9ab5332294ab95a9b": {
+      "id": 106,
+      "documentId": "g3066t7dq9fp8g9kzxl39vz4",
+      "name": "How can I help my students with cyberbullying?"
+    },
+    "6617d09b547d1117a29b31ee": {
+      "id": 28,
+      "documentId": "n5yhswx49i73zfiwixtup58y",
+      "name": "Get inspired!"
+    },
+    "6616a906baee1f9ab0a46cae": {
+      "id": 25,
+      "documentId": "e3a363j1r61hn8vkxxba0blc",
+      "name": "When does banter become bullying?"
+    },
+    "6616a8b6393b7c37a920af3a": {
+      "id": 19,
+      "documentId": "o84vargi39gx0cup4ht1zlr7",
+      "name": "What is considered bullying?"
+    },
+    "660c5ac8889881bee4cb6f1f": {
+      "id": 1,
+      "documentId": "i3rql1fxbu675wyk780pd1g7",
+      "name": "What are the long-term effects of being bullied?"
+    },
+    "660c5ac845deeb86e7221b90": {
+      "id": 82,
+      "documentId": "mvxpl4z8ceh1ktybgk2vz7fi",
+      "name": "How can I recognize if one of my students is a victim of bullying?"
+    },
+    "660c5ac8706c8c704cfaee8e": {
+      "id": 85,
+      "documentId": "fgzo3ts9q82cbjtd5bojrfhp",
+      "name": "How can my students safely report bullying incidents?"
+    },
+    "660c5ac8578348c88806abc9": {
+      "id": 100,
+      "documentId": "knbn4wqk9rkmypgy1rrky9wa",
+      "name": "What are some Anti-Bullying activities I can do with my students?"
+    },
+    "660c5ac8342b949bc78b3515": {
+      "id": 88,
+      "documentId": "pilq2w4kmjwjt4eb2hdvv34x",
+      "name": "How can I talk to a bully's parents about their child's behaviour?"
+    },
+    "660c5ac815d142678b70c000": {
+      "id": 97,
+      "documentId": "vmxmvxhkyl4rbj8nufcsxdac",
+      "name": "When is it time to talk to parents about their child bullying or being bullied?"
+    },
+    "660c5ac86f3f164f6b2cbc53": {
+      "id": 76,
+      "documentId": "p8281ozd2bi5zdyiufcokgdn",
+      "name": "How can I talk to parents about their child being bullied?"
+    },
+    "660c5ac8c70cb2e592308522": {
+      "id": 94,
+      "documentId": "iyn2809e0xkjyu2end8o6ibh",
+      "name": "How do I handle a bully in my classroom?"
+    },
+    "660c5ac8b55a6090901c023c": {
+      "id": 103,
+      "documentId": "xa567v07ds56x8h5z7ogr88w",
+      "name": "One of my students is being bullied. What can I do?"
+    },
+    "6617d0b2ceb7312d1c56d8c1": {
+      "id": 28,
+      "documentId": "n5yhswx49i73zfiwixtup58y",
+      "name": "Get inspired!"
+    },
+    "660c5ac92a74a3b33b1bee22": {
+      "id": 1,
+      "documentId": "i3rql1fxbu675wyk780pd1g7",
+      "name": "What are the long-term effects of being bullied?"
+    },
+    "660c5ac914250a416fca435e": {
+      "id": 151,
+      "documentId": "dgu834anqnjblmmmekyzo0zl",
+      "name": "My friends are bullying another student and want me to join in. What should I do?"
+    },
+    "660c5ac9fa9ab223a3b24972": {
+      "id": 13,
+      "documentId": "i3ywdfz36q6w9wiwocozn658",
+      "name": "My friends won't talk to me anymore. What can I do?"
+    },
+    "660c5ac90366c7a0070aea2d": {
+      "id": 16,
+      "documentId": "ti0xs2grfdugi71z50fqu00b",
+      "name": "How can I overcome cyberbullying?"
+    },
+    "660c5ac9fe8455079daf9a51": {
+      "id": 4,
+      "documentId": "zsmykxyq2hg2fpl6yqtkplt8",
+      "name": "Why do bullies exist?"
+    },
+    "660c5ac945deeb86e7221cb2": {
+      "id": 10,
+      "documentId": "eypya7timov6n6ywmzs3px0b",
+      "name": "What do I do when I witness racism?"
+    },
+    "660c5ac946528f2be3232b72": {
+      "id": 166,
+      "documentId": "wm9nelrj35kb7imxscjmotkk",
+      "name": "How do I open up to someone about bullying?"
+    },
+    "660c5ac925e29e84014d9429": {
+      "id": 7,
+      "documentId": "e0ue3ubk0uhw2gh4n21x5z61",
+      "name": "How do I stop bullying others?"
+    },
+    "660c5ac99a2cc136baae9dd9": {
+      "id": 172,
+      "documentId": "oirzebu1cra3pylh7uc4r2q6",
+      "name": "How do I deal with friends who are bullying me?"
+    },
+    "660c5ac9ce35ab84218b316b": {
+      "id": 175,
+      "documentId": "d0g76ilxg1n24b1vnr89x91w",
+      "name": "I'm being bullied at school. What can I do?"
+    },
+    "660c5ac80aa2734474adec17": {
+      "id": 178,
+      "documentId": "gmhbthg89eqgcosfzf5y6xww",
+      "name": "How can I take action when my friend is being bullied?"
+    },
+    "660c5ac815d142678b70c043": {
+      "id": 22,
+      "documentId": "bifef2gim48htwh1hc7rx6zd",
+      "name": "How can I recognize bullying?"
+    },
+    "6617d0a970d797b9dd824b40": {
+      "id": 28,
+      "documentId": "n5yhswx49i73zfiwixtup58y",
+      "name": "Get inspired!"
+    },
+    "660c5acadc2827bbc80166f4": {
+      "id": 1,
+      "documentId": "i3rql1fxbu675wyk780pd1g7",
+      "name": "What are the long-term effects of being bullied?"
+    },
+    "660c5ac97b399707dd3c310f": {
+      "id": 4,
+      "documentId": "zsmykxyq2hg2fpl6yqtkplt8",
+      "name": "Why do bullies exist?"
+    },
+    "660c5ac91878e41540f1e1fc": {
+      "id": 22,
+      "documentId": "bifef2gim48htwh1hc7rx6zd",
+      "name": "How can I recognize bullying?"
+    },
+    "6617d0bd9ee84e596d944b8d": {
+      "id": 28,
+      "documentId": "n5yhswx49i73zfiwixtup58y",
+      "name": "Get inspired!"
+    },
+    "660c5acac1af3dedd12dc02c": {
+      "id": 151,
+      "documentId": "dgu834anqnjblmmmekyzo0zl",
+      "name": "My friends are bullying another student and want me to join in. What should I do?"
+    },
+    "660c5aca8c6cc996f08db479": {
+      "id": 16,
+      "documentId": "ti0xs2grfdugi71z50fqu00b",
+      "name": "How can I overcome cyberbullying?"
+    },
+    "660c5aca8a5439927f1bbb27": {
+      "id": 13,
+      "documentId": "i3ywdfz36q6w9wiwocozn658",
+      "name": "My friends won't talk to me anymore. What can I do?"
+    },
+    "660c5aca706c8c704cfaf005": {
+      "id": 10,
+      "documentId": "eypya7timov6n6ywmzs3px0b",
+      "name": "What do I do when I witness racism?"
+    },
+    "660c5acaa0409d9886cd6ef6": {
+      "id": 7,
+      "documentId": "e0ue3ubk0uhw2gh4n21x5z61",
+      "name": "How do I stop bullying others?"
+    },
+    "660c5acaf4b0828e89983bac": {
+      "id": 166,
+      "documentId": "wm9nelrj35kb7imxscjmotkk",
+      "name": "How do I open up to someone about bullying?"
+    },
+    "660c5ac90aa2734474adef63": {
+      "id": 172,
+      "documentId": "oirzebu1cra3pylh7uc4r2q6",
+      "name": "How do I deal with friends who are bullying me?"
+    },
+    "660c5ac914250a416fca437b": {
+      "id": 178,
+      "documentId": "gmhbthg89eqgcosfzf5y6xww",
+      "name": "How can I take action when my friend is being bullied?"
+    },
+    "660c5ac906640360f86ce8d5": {
+      "id": 175,
+      "documentId": "d0g76ilxg1n24b1vnr89x91w",
+      "name": "I'm being bullied at school. What can I do?"
+    },
+    "6616a98dbaee1f9ab0a50c36": {
+      "id": 226,
+      "documentId": "yh8ggj2bjsgr9z937rnicaow",
+      "name": "temp"
+    },
+    "6616a9b316ffc1830e9e4e86": {
+      "id": 226,
+      "documentId": "yh8ggj2bjsgr9z937rnicaow",
+      "name": "temp"
+    }
+  },
+  "partners": {
+    "68122766bd52d8b24770bbbf": {
+      "id": 1,
+      "documentId": "i7oq9j4ea47zmmflww5l9rsr",
+      "name": "Deaconess Foundation, Vamos Rovaniemi"
+    },
+    "66229957e3be2b5a0270c9c0": {
+      "id": 2,
+      "documentId": "ar6d6ezvr12bfe1gw90m67r4",
+      "name": "Ensemble pour le respect de la diversité"
+    },
+    "6616fad8c54ed6d67ef30b01": {
+      "id": 3,
+      "documentId": "xwlmzr6wnfpxuevrmgj08bcx",
+      "name": "Quítate las Etiquetas"
+    },
+    "660c5dd26f3f164f6b2f9c34": {
+      "id": 4,
+      "documentId": "mv4vlszlq6uxdgrdd8242p8a",
+      "name": "ZARA – Zivilcourage und Anti-Rassismus-Arbeit"
+    },
+    "660c5d3b5412aaff46782174": {
+      "id": 5,
+      "documentId": "pbt0nz7imzcm1lkvln4xpai1",
+      "name": "World Anti-Bullying Forum"
+    },
+    "660c5d2eb55a6090901ebf0e": {
+      "id": 6,
+      "documentId": "vhoh10wde1gf4jbu1lboon0e",
+      "name": "The Polar Academy"
+    },
+    "660c5d1b047595e5510a8ca9": {
+      "id": 7,
+      "documentId": "n6cmvme4ync7ru2ycxbvhbpa",
+      "name": "+FORT"
+    },
+    "660c5cf75412aaff4677e06e": {
+      "id": 8,
+      "documentId": "y7087ik2pexzl1soxeiygaj7",
+      "name": "Fundación NEMI"
+    },
+    "660c5cdf699907665844641c": {
+      "id": 9,
+      "documentId": "um71pmvc9up4qius508mevrz",
+      "name": "Fondation Jasmin Roy Sophie Desmarais"
+    },
+    "660c5cd345deeb86e7240391": {
+      "id": 10,
+      "documentId": "r6fp0xzgdusll9qkpki73h21",
+      "name": "Ditch The Label"
+    },
+    "660c5cc78a5439927f1dc3db": {
+      "id": 11,
+      "documentId": "lju2ikf4p3wee9wm85fleorr",
+      "name": "Dare to Care"
+    },
+    "660c5cbdca8b5a39f75c886b": {
+      "id": 12,
+      "documentId": "hhvln61v80749uzshelbw5cd",
+      "name": "Bully Zero"
+    },
+    "660c5cb1ce35ab84218d11c9": {
+      "id": 13,
+      "documentId": "qsw5oe67zeypi54qj3vm6bd2",
+      "name": "Born This Way Foundation"
+    },
+    "660c5ca9cde066e819e3f357": {
+      "id": 14,
+      "documentId": "yun7colyq2lryhgbj30m258k",
+      "name": "Bikers Against Bullies USA"
+    }
+  },
+  "resources": {
+    "67002fa6cbd6865728866789": {
+      "id": 1,
+      "documentId": "qqzvqjodizbjftorax4cdzvs",
+      "name": "Les Ateliers 360 / Milieu de travail – Contre le harcèlement sexuel",
+      "locale": "fr"
+    },
+    "67002f1b309d727e44c860ea": {
+      "id": 2,
+      "documentId": "gsvks3cv0nwpwgrcuw9c1v0m",
+      "name": "Réalité virtuelle : Dans la peau d’une personne LGBT",
+      "locale": "fr"
+    },
+    "67002ea1ef63060d985b66ca": {
+      "id": 3,
+      "documentId": "fxi9hu151rj2gjt52lgx442a",
+      "name": "In the shoes of an LGBT person",
+      "locale": "en"
+    },
+    "67002ddbc7298d8543e8298e": {
+      "id": 4,
+      "documentId": "q0i8ur3r4owp98zxhr131rlz",
+      "name": "Guide de développement de projets pour contrer l’intimidation",
+      "locale": "fr"
+    },
+    "67001dfa8a5ed93ab21eeccc": {
+      "id": 5,
+      "documentId": "giy3b84uj6zc4r1v05wklox4",
+      "name": "Violence au travail – Affiches",
+      "locale": "fr"
+    },
+    "67001cf371a8acc98b67838a": {
+      "id": 6,
+      "documentId": "wyi9iaxbc7kqjrswktpc3tet",
+      "name": "Unissons-nous contre la violence au travail",
+      "locale": "fr"
+    },
+    "67001c4f6332a732cf57567d": {
+      "id": 7,
+      "documentId": "vkrvu456098uknjcum0b2w63",
+      "name": "United against violence at work",
+      "locale": "en"
+    },
+    "67001af717a8d6b2d105d7a4": {
+      "id": 8,
+      "documentId": "q667qv3rbrega74jgjk5krym",
+      "name": "Défier l'intimidation",
+      "locale": "fr"
+    },
+    "67000e4965d854a382b8ef89": {
+      "id": 9,
+      "documentId": "fpe9y2jvy5jho42um0nwihln",
+      "name": "Gear Up to Ride Out Intimidation",
+      "locale": "en"
+    },
+    "662298e6bb76ada5db833167": {
+      "id": 10,
+      "documentId": "d23se9z984q56h171pfeso4x",
+      "name": "VIE EN LIGNE et cyberviolence",
+      "locale": "fr"
+    },
+    "6616ef212ce773afe7d730a0": {
+      "id": 11,
+      "documentId": "jb07cvk6v453bra69mt307ju",
+      "name": "ZARA Beratungsstelle gegenhassimnetz",
+      "locale": "en"
+    },
+    "6616de2de0ee449dc4136ee8": {
+      "id": 12,
+      "documentId": "zb0iq31aool0tb8egiybof7t",
+      "name": "+FORT (application mobile)",
+      "locale": "fr"
+    },
+    "66168e1f8293de06d5721b7b": {
+      "id": 13,
+      "documentId": "jxw69ow7lwpx4j0tq4ctkd0c",
+      "name": "Certificado \"Be There\"",
+      "locale": "es"
+    },
+    "66168d55b77d3f07e96b6323": {
+      "id": 14,
+      "documentId": "euelzeviqz8teui9783ropf7",
+      "name": "Certificat Être là",
+      "locale": "fr"
+    },
+    "6615a95dfa9505d4abf85522": {
+      "id": 15,
+      "documentId": "tn7gz4o6rj7upbwhuzb17ric",
+      "name": "Alphabétisation des émotions chez les Premières Nations",
+      "locale": "fr"
+    },
+    "6615a8e19af7add2dd729887": {
+      "id": 16,
+      "documentId": "vmgmsp0je3efon3hpgh67nnk",
+      "name": "Favoriser de saines relations avec les enfants autistes à la petite enfance",
+      "locale": "fr"
+    },
+    "6615a89d56a6bbfb528b931c": {
+      "id": 17,
+      "documentId": "il257kp8mxaolvyds3hrhqu9",
+      "name": "Les apprentissages sociaux et émotionnels au service des enfants ayant un TDAH",
+      "locale": "fr"
+    },
+    "6615a84e895edff409acdfc8": {
+      "id": 18,
+      "documentId": "dppvxla4etb251m99ds3587p",
+      "name": "Les apprentissages sociaux et émotionnels au service des enfants en processus d'affirmation identitaire",
+      "locale": "fr"
+    },
+    "6615a7d17e2ccf52845ec8a5": {
+      "id": 19,
+      "documentId": "ohy6epabhpiw2zkfp2uj770c",
+      "name": "Bien joué! (Luttez contre l'intimidation à l'aide de ClassCraft)",
+      "locale": "fr"
+    },
+    "6615a71a5326b128181dadb9": {
+      "id": 20,
+      "documentId": "zj4qqzy6u78fxovcvhtj9twb",
+      "name": "Cyberappréciation",
+      "locale": "fr"
+    },
+    "6615a6b2214bd5cf2e174685": {
+      "id": 21,
+      "documentId": "tgmgkgupvn3qsfba2mr4kh63",
+      "name": "Coffret d'aide aux écoles (pour organiser le plan de lutte contre la violence et l'intimidation)",
+      "locale": "fr"
+    },
+    "6615a523d2e9552dc238b4dc": {
+      "id": 22,
+      "documentId": "c7q6mfyywr48ssc8lih57hjg",
+      "name": "Documentaire #BITCH: les filles et la violence",
+      "locale": "fr"
+    },
+    "6615a4651c66ccdb255657b1": {
+      "id": 23,
+      "documentId": "slcbr8wo6giafz9yjtjk9uh4",
+      "name": "Un travail d'équipe (médiation en milieu scolaire)",
+      "locale": "fr"
+    },
+    "6615a401cd440963fc25b199": {
+      "id": 24,
+      "documentId": "h5ch08n9isqlupv29ckb5coo",
+      "name": "Coffre à outils pour accompagner les jeunes dans leurs besoins émotionnels et relationnels",
+      "locale": "fr"
+    },
+    "6615a1802a1aa85971e17b4b": {
+      "id": 25,
+      "documentId": "fh1q2edquqzfqp2do3b2xwfr",
+      "name": "Guide pour favoriser une socialisation dynamique chez les adolescent.e.s",
+      "locale": "fr"
+    },
+    "6615a10713d2728933d48373": {
+      "id": 26,
+      "documentId": "hdsrar5u5ivugplmq9necy75",
+      "name": "Aider les jeunes LGBTQI+ avec bienveillance",
+      "locale": "fr"
+    },
+    "6615a04aecad9d72696b38cc": {
+      "id": 27,
+      "documentId": "c9ut63rgxd96e9zmeiw8avw1",
+      "name": "Guide d’information aux parents sur la violence et l’intimidation à l’école",
+      "locale": "fr"
+    },
+    "66159b1d4d11000eabc98b5f": {
+      "id": 28,
+      "documentId": "rt6kdunx39v4ro6w474xkx68",
+      "name": "L’alphabétisation des émotions et des besoins à la petite enfance",
+      "locale": "fr"
+    },
+    "660ed06bf4accd1c70d9a8fb": {
+      "id": 29,
+      "documentId": "jxdnj69ua9x0hqemitsgjcn8",
+      "name": "#Gegenhassimnetz Bericht (Available in German only)",
+      "locale": "en"
+    },
+    "660ed06be78ba9bbbd47ef05": {
+      "id": 30,
+      "documentId": "xple5in26rupnc3yjessl91v",
+      "name": "ZARA Counselling Centres ",
+      "locale": "en"
+    },
+    "660ed06b78027b236440d26b": {
+      "id": 31,
+      "documentId": "n0ug4ztqstfpuxyty5azdfsm",
+      "name": "Moments Matter: A Shift in School-based Bullying Prevention",
+      "locale": "en"
+    },
+    "660ed06ae0288dac32076f79": {
+      "id": 32,
+      "documentId": "v86if1efj5zi7orrn8mw10yh",
+      "name": "Teens and cyberbullying: What we know and what we can do:",
+      "locale": "en"
+    },
+    "660ed06ae521e632019550cd": {
+      "id": 33,
+      "documentId": "fl9ukbi1duyxdmu7ka7xi5ol",
+      "name": "Youth Panel: Ask us! Online Safety",
+      "locale": "en"
+    },
+    "660ed06a28977a3cfed43030": {
+      "id": 34,
+      "documentId": "qvopp282699fp6qfvpie96vo",
+      "name": "Ciudadanía digital",
+      "locale": "es"
+    },
+    "660ed06ae78ba9bbbd47ee5e": {
+      "id": 35,
+      "documentId": "gpwf4e8btt9ruxw1g061e1b8",
+      "name": "The Polar Academy Video",
+      "locale": "en"
+    },
+    "660ed06ae78ba9bbbd47ee5c": {
+      "id": 36,
+      "documentId": "v64b1rp7dpeo0ekf9h4lthmp",
+      "name": "TPA Program",
+      "locale": "en"
+    },
+    "660ed06a09cef4fa2b27ffbd": {
+      "id": 37,
+      "documentId": "d3x8y3u8k10qelcvmnmjw55k",
+      "name": "A guide - How to stop bullying",
+      "locale": "en"
+    },
+    "660ed06aea9e381674e0026d": {
+      "id": 38,
+      "documentId": "glfrceb81gdqibqnhl5g3q2l",
+      "name": "+FORT: Stronger than Bullying App ",
+      "locale": "en"
+    },
+    "660ed06a8bc2c7309c5d3784": {
+      "id": 39,
+      "documentId": "vcsme94mtzu2te26cbvhs1xi",
+      "name": "Emotional literacy and needs in early childhood",
+      "locale": "en"
+    },
+    "660ed06a3cc8cf7703a955e6": {
+      "id": 40,
+      "documentId": "ov5p6jchacew7d3qngpc186e",
+      "name": "Social and emotional learning among aboriginal students",
+      "locale": "en"
+    },
+    "660ed06ac58c4179c18484ef": {
+      "id": 41,
+      "documentId": "gywtg7loqg1tslurzsurhvah",
+      "name": "Fostering healthy relationships with autistic children in early childhood",
+      "locale": "en"
+    },
+    "660ed06a988413d90b06d174": {
+      "id": 42,
+      "documentId": "v72vrvfpmgk3mgabjfgdgez7",
+      "name": "Healthy relationships with children with Attention Deficit / Hyperactivity Disorder (ADHD)",
+      "locale": "en"
+    },
+    "660ed069ba342226017fd6ef": {
+      "id": 43,
+      "documentId": "vhn1jmxpbpoo7l47n6vknf8t",
+      "name": "Well Played",
+      "locale": "en"
+    },
+    "660ed0693b73043064c00744": {
+      "id": 44,
+      "documentId": "ioq37u7osstq6v6ul5qvfgw0",
+      "name": "Social and emotional learning to help children with the process of identity affirmation",
+      "locale": "en"
+    },
+    "660ed0693fe9ad962bd6a15b": {
+      "id": 45,
+      "documentId": "fjpgxvfwmdmad1ajz94og1yb",
+      "name": "Log in to the Positive",
+      "locale": "en"
+    },
+    "660ed06989c8fa507ed77736": {
+      "id": 46,
+      "documentId": "htqlm9blfo1e8c8po41sce2s",
+      "name": "The Toolbox",
+      "locale": "en"
+    },
+    "660ed069b3b3d425e41eda28": {
+      "id": 47,
+      "documentId": "txeisbgv3rgydyld3gctj6bq",
+      "name": "School Staff support toolkit",
+      "locale": "en"
+    },
+    "660ed069de07a61d346f2840": {
+      "id": 48,
+      "documentId": "o4fnvp7w8qjvmes5p4tlsl7y",
+      "name": "Getting over Bullying",
+      "locale": "en"
+    },
+    "660ed0697f97e0a144114ce0": {
+      "id": 49,
+      "documentId": "zeo1136bbdl8ga2zb89m6f9r",
+      "name": "How to Deal with Friends who are Bullying You",
+      "locale": "en"
+    },
+    "660ed0693cc8cf7703a95598": {
+      "id": 50,
+      "documentId": "a7mttnuw8d3vpi85nd9hsxjg",
+      "name": "A Guide to Promote the Dynamic Socialization of Adolescents",
+      "locale": "en"
+    },
+    "660ed0691d4cd204cef09665": {
+      "id": 51,
+      "documentId": "y5qlqi9mnnqb7gth69xshagb",
+      "name": "Helping LGBTQI+ Youth with Caring",
+      "locale": "en"
+    },
+    "660ed06925cd7b3731b708f5": {
+      "id": 52,
+      "documentId": "lmzj62nvxmeb98c96652uwk7",
+      "name": "Information Guide for Parents on School Violence and Bullying",
+      "locale": "en"
+    },
+    "660ed06952f5efafbe016298": {
+      "id": 53,
+      "documentId": "efxdtcg33ekekdtsqh7um0lr",
+      "name": "Banter of Bullying",
+      "locale": "en"
+    },
+    "660ed069bc0031123e90ade2": {
+      "id": 54,
+      "documentId": "w5a8ncgfdsvmb9plw2vcu6dm",
+      "name": "Cyberbullying: Top 9 Tips on Overcoming it",
+      "locale": "en"
+    },
+    "660ed068595882acf53d4f95": {
+      "id": 55,
+      "documentId": "xzv3r075oeo4man1eob21chk",
+      "name": "21 Facts About Bullying that you Probably Never Knew",
+      "locale": "en"
+    },
+    "660ed068cce8833483beacb4": {
+      "id": 56,
+      "documentId": "uoz4nemnak5nkod8loh03hyj",
+      "name": "Sitio web QLE ",
+      "locale": "es"
+    },
+    "660ed0686a0ff18a91fc35bf": {
+      "id": 57,
+      "documentId": "u6gf9c44no9gzx1v95vnf250",
+      "name": "Grade-5-6-Conflict is Normal; Bullying is Not!",
+      "locale": "en"
+    },
+    "660ed068c86a9fb7343a2ff7": {
+      "id": 58,
+      "documentId": "otomlv2dcx6h67faitq2tyjs",
+      "name": "Comunidad de apoyo QLE",
+      "locale": "es"
+    },
+    "660ed068f4accd1c70d9a45c": {
+      "id": 59,
+      "documentId": "ywo4kcfoqafu5hgy4ri68tjv",
+      "name": "Anti-Bullying Activities for Teachers",
+      "locale": "en"
+    },
+    "660ed068fe78c77817a35c15": {
+      "id": 60,
+      "documentId": "r4w3jvg43sok64w1wq6yej20",
+      "name": "What to say to someone who is being bullied",
+      "locale": "en"
+    },
+    "660ed068518d8bce4d5ec78f": {
+      "id": 61,
+      "documentId": "o73mrxrbce5c4vdlexrojg10",
+      "name": "Why do people bully? The scientific reasons",
+      "locale": "en"
+    },
+    "660ed06853c8f26de5921426": {
+      "id": 62,
+      "documentId": "q6vpooh7fnftcj7jrywc2azr",
+      "name": "Top 10 tips for overcoming bullying",
+      "locale": "en"
+    },
+    "660ed0689ac150d2632dc534": {
+      "id": 63,
+      "documentId": "oceoy39dkw597g9rflu24qu6",
+      "name": "Sporting Change Podcast",
+      "locale": "en"
+    },
+    "660ed068fe78c77817a35bf2": {
+      "id": 64,
+      "documentId": "j6isgjggy2ra8skuxhjrmqcj",
+      "name": "The 4 components needed for systemic change",
+      "locale": "en"
+    },
+    "660ed06853f029cc235a31c9": {
+      "id": 65,
+      "documentId": "c1ycar9kpw6pgs1pa2wstiyb",
+      "name": "Bullying vs Normal Peer Conflict",
+      "locale": "en"
+    },
+    "660ed068f8aa92cbba0a1108": {
+      "id": 66,
+      "documentId": "nw0syn7x815njjszbhzfmmvf",
+      "name": "3-4-Introduction to Ha Ha So",
+      "locale": "en"
+    },
+    "660ed0687f97e0a144114c5c": {
+      "id": 67,
+      "documentId": "qe9bt9eoxnqs8k0hyzc3y1gt",
+      "name": "k-2-Bullying Behaviour",
+      "locale": "en"
+    },
+    "660ed06828977a3cfed42db1": {
+      "id": 68,
+      "documentId": "w7ckgl0pn5i9zu3j8j5kknww",
+      "name": "Dare to Care in Sport - Sports Information Package",
+      "locale": "en"
+    },
+    "660ed068fe78c77817a35bc2": {
+      "id": 69,
+      "documentId": "snux1bo9k55bpugibxlav92c",
+      "name": "Dare to Care Blog",
+      "locale": "en"
+    },
+    "660ed0683cc8cf7703a954b5": {
+      "id": 70,
+      "documentId": "ubwm60dfw4ui2f9me44lxn0i",
+      "name": "Frequently Asked Questions",
+      "locale": "en"
+    },
+    "660ed067a1cc56e0835ad0a7": {
+      "id": 71,
+      "documentId": "sef8g172ls4fh72wkkpxes0j",
+      "name": "Find a Helpline",
+      "locale": "en"
+    },
+    "660ed0671427954987ceb0d3": {
+      "id": 72,
+      "documentId": "ra0f5j7z39teb90m37kx2w0m",
+      "name": "Fact Sheets & Activities",
+      "locale": "en"
+    },
+    "660ed067ba342226017fd5d8": {
+      "id": 73,
+      "documentId": "cmqrx5yxjrs0hb7s8lfkff6m",
+      "name": "School Programs",
+      "locale": "en"
+    },
+    "660ed067f22a2aa2318b8a21": {
+      "id": 74,
+      "documentId": "njbgra9fifa2bcc4z9075pps",
+      "name": "Channel Kindness: Stronger Than Bullying (a video story)",
+      "locale": "en"
+    },
+    "660ed067595882acf53d4ee2": {
+      "id": 75,
+      "documentId": "mz4dx9uahsm2fp1cwv8q2kov",
+      "name": "Channel Kindness",
+      "locale": "en"
+    },
+    "660ed067cce8833483beaaf1": {
+      "id": 76,
+      "documentId": "mzuiy9w3as17wosutsg5r5sd",
+      "name": "Bikers Against Bullies x VicBlends: Riding Out Intimidation",
+      "locale": "en"
+    },
+    "660ed067e521e63201954e44": {
+      "id": 77,
+      "documentId": "omeu0zr4k47gbjpoxadib1mg",
+      "name": "Be There Certificate",
+      "locale": "en"
+    },
+    "660ed0674cb17da6fd748efd": {
+      "id": 78,
+      "documentId": "ufhr9us83scvs7t105lf3tn8",
+      "name": "Request the Live to Be Tour in your school",
+      "locale": "en"
+    },
+    "660ed067c639b9dacffd38b8": {
+      "id": 79,
+      "documentId": "dwi0nd80d9lcc5d7aju44cyj",
+      "name": "Five things you can do if you are being bullied",
+      "locale": "en"
+    }
+  },
+  "audiences": {
+    "adult": {
+      "id": 1,
+      "documentId": "dysw1k4yg3j4gal8qs4csx1m"
+    },
+    "teenager": {
+      "id": 2,
+      "documentId": "j1u6br9xy3w2o17cc6ltkfm7"
+    },
+    "kid": {
+      "id": 3,
+      "documentId": "cnrbw8otyqbpq0k53x9p1rqd"
+    },
+    "coach": {
+      "id": 4,
+      "documentId": "ibx2e7hzbqwoa301ksslwzie"
+    },
+    "teacher": {
+      "id": 5,
+      "documentId": "usw8dl7db8xqaxmgw8bfp7ju"
+    },
+    "parent": {
+      "id": 6,
+      "documentId": "mfq39geub68retzrh31kjffq"
+    }
+  }
+}

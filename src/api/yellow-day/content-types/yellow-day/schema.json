@@ -1,0 +1,116 @@
+{
+  "kind": "singleType",
+  "collectionName": "yellow_days",
+  "info": {
+    "singularName": "yellow-day",
+    "pluralName": "yellow-days",
+    "displayName": "Yellow Day"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "HeroTitle": {
+      "type": "blocks"
+    },
+    "HeroLogo": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "HeroCover": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "IntroTitle": {
+      "type": "string"
+    },
+    "IntroSubtitle": {
+      "type": "string"
+    },
+    "IntroContent": {
+      "type": "text"
+    },
+    "VideoCover": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "VideoURL": {
+      "type": "string"
+    },
+    "ParticipationTitle": {
+      "type": "blocks"
+    },
+    "ParticipationIntro": {
+      "type": "blocks"
+    },
+    "ParticipationDetails": {
+      "type": "blocks"
+    },
+    "DonationDetails": {
+      "type": "blocks"
+    },
+    "ResourcesTitle": {
+      "type": "blocks"
+    },
+    "ResourcesDetails": {
+      "type": "blocks"
+    },
+    "ResourcesBackground": {
+      "type": "media",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "CTATitle": {
+      "type": "string"
+    },
+    "CTAIntro": {
+      "type": "blocks"
+    },
+    "CTADetails": {
+      "type": "blocks"
+    },
+    "Partners": {
+      "type": "component",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "yellow-day.partners",
+      "repeatable": true
+    }
+  }
+}

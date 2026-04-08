@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_yellow_day_partners",
+  "info": {
+    "displayName": "Partners"
+  },
+  "options": {},
+  "attributes": {
+    "PartnerTitle": {
+      "type": "string"
+    },
+    "PartnerLogo": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

@@ -859,24 +859,91 @@ export interface ApiYellowDayYellowDay extends Struct.SingleTypeSchema {
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
-    CTADetails: Schema.Attribute.Blocks;
-    CTAIntro: Schema.Attribute.Blocks;
-    CTATitle: Schema.Attribute.String;
-    DonationDetails: Schema.Attribute.Blocks;
-    HeroCover: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
-    HeroLogo: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
-    HeroTitle: Schema.Attribute.Blocks;
-    IntroContent: Schema.Attribute.Text;
-    IntroSubtitle: Schema.Attribute.String;
-    IntroTitle: Schema.Attribute.String;
+    CTADetails: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    CTAIntro: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    CTATitle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    DonationDetails: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    HeroCover: Schema.Attribute.Media<
+      'images' | 'files' | 'videos' | 'audios'
+    > &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    HeroLogo: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    HeroTitle: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    IntroContent: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    IntroSubtitle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    IntroTitle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     locale: Schema.Attribute.String;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
       'api::yellow-day.yellow-day'
     >;
-    ParticipationDetails: Schema.Attribute.Blocks;
-    ParticipationIntro: Schema.Attribute.Blocks;
-    ParticipationTitle: Schema.Attribute.Blocks;
+    ParticipationDetails: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    ParticipationIntro: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    ParticipationTitle: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     Partners: Schema.Attribute.Component<'yellow-day.partners', true> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
@@ -892,15 +959,35 @@ export interface ApiYellowDayYellowDay extends Struct.SingleTypeSchema {
           localized: true;
         };
       }>;
-    ResourcesDetails: Schema.Attribute.Blocks;
-    ResourcesTitle: Schema.Attribute.Blocks;
+    ResourcesDetails: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    ResourcesTitle: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     VideoCover: Schema.Attribute.Media<
       'images' | 'files' | 'videos' | 'audios'
-    >;
-    VideoURL: Schema.Attribute.String;
+    > &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    VideoURL: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
   };
 }
 

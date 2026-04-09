@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Commands
 
 ```bash
-npm run develop   # Development mode with auto-reload (watch mode)
+npm run develop   # Development mode with auto-reload (watch mode); alias: npm run dev
 npm run build     # Compile TypeScript + bundle admin panel
 npm start         # Production mode (requires prior build)
 npm run console   # Interactive Strapi console
@@ -17,13 +17,26 @@ There is no test runner configured. Strapi validates schemas on startup.
 
 This is a **Strapi v5.40.0** headless CMS. Strapi provides auto-generated REST CRUD endpoints for each content type, a React admin panel at `/admin`, JWT-based authentication, and role-based access control via the `users-permissions` plugin.
 
-**Content Types** (defined as JSON schemas in `src/api/<name>/content-types/<name>/schema.json`):
-- `Category` — name, slug
-- `Country` — name, slug, fr, es
-- `Partner` — name, slug, url, description (+ fr/es), country (→Country), logo
-- `Resource` — name, slug, url, partner (→Partner), categories (↔Category), cover
+**REST API defaults** (`config/api.ts`): `defaultLimit: 25`, `maxLimit: 100`. Frontends fetching all records must paginate or raise the limit explicitly.
 
-**Relationships:** Country → Partner → Resource, Resource ↔ Category
+**Content Types** (JSON schemas in `src/api/<name>/content-types/<name>/schema.json`):
+
+Collection types (no draftAndPublish):
+- `Category` — name *(localized)*, slug *(uid, shared)*; ↔ Resources
+- `Country` — name *(localized)*, slug *(uid, shared)*; → Partners
+- `Partner` — name, url, description, logo *(all localized)*, slug *(uid, shared)*, country (→Country), resources (→Resource)
+- `Resource` — name, url, cover *(all localized)*, slug *(uid, shared)*, partner (→Partner), categories (↔Category), audiences (↔Audience)
+- `Audience` — name *(not localized)*; ↔ Resources
+
+Single types (draftAndPublish enabled, localized):
+- `Resources Hub` — all fields localized: HeroTitle, HeroSubtitle, HeroLogo, HeroBackground, IntroContent *(blocks)*, VideoTitle, VideoIntro, VideoCover, VideoURL, PlayTitle, PlayIntro, PlayCover, CTALogo, CTAIntro, WelcomeTitle, WelcomeIntro
+- `Yellow Day` — most fields **not** localized (HeroTitle/Logo/Cover, Intro*, Video*, Participation*, Donation*, Resources*, CTA*); only `ResourcesBackground` and `Partners` *(repeatable component)* are localized
+
+**Component** (`src/components/yellow-day/partners.json`): `yellow-day.partners` — PartnerTitle *(string)*, PartnerLogo *(media)*. Used as a repeatable component on Yellow Day.
+
+**i18n gotcha (Strapi v5):** When PUTting a locale entry, non-localized (shared) fields must be included in the request body — Strapi v5 resets them to null if omitted.
+
+**Relationships:** Country → Partner → Resource, Resource ↔ Category, Resource ↔ Audience
 
 **Configuration** (`config/`): `server.ts` (host/port 1337), `database.ts` (SQLite default, MySQL/PG via env vars), `api.ts` (pagination limits), `middlewares.ts`, `plugins.ts`, `admin.ts`.
 
